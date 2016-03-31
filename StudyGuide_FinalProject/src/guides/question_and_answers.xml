@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Topic>SCIENCE</Topic>
+		<Question>What is the chemical equivalent of water? </Question>
+		<A>O2</A>
+		<B>H2O2</B>
+		<C>CO2</C>
+		<D>H2O</D>
+		<Correct>D</Correct>
+	</record>
+	<record>
+		<Topic>SCIENCE</Topic>
+		<Question>What is the name of the type of gene that needs to be present twice in order to be expressed in an organism? </Question>
+		<A>Recessive</A>
+		<B>Dominant</B>
+		<C>Double</C>
+		<D>Special</D>
+		<Correct>A</Correct>
+	</record>
+	<record>
+		<Topic>SCIENCE</Topic>
+		<Question>Which of the following cat fur colors is not tied to the X chromosome being present? </Question>
+		<A>Orange</A>
+		<B>White</B>
+		<C>Black</C>
+		<D>Brown</D>
+		<Correct>B</Correct>
+	</record>
+	<record>
+		<Topic>SCIENCE</Topic>
+		<Question>The sun is a... </Question>
+		<A>Planet</A>
+		<B>Star</B>
+		<C>Dwarf Moon</C>
+		<D>Asteroid</D>
+		<Correct>B</Correct>
+	</record>
+	<record>
+		<Topic>SCIENCE</Topic>
+		<Question>The reason scottish fold cats have folded ears is because of a gene that messed with their... </Question>
+		<A>Skull Development</A>
+		<B>Ear Canal Development</B>
+		<C>Cartilage Structure</C>
+		<D>Spine Structure</D>
+		<Correct>C</Correct>
+	</record>
+	<record>
+		<Topic>SCIENCE</Topic>
+		<Question>One example of a theropod dinosaur is a... </Question>
+		<A>Brachiosaurus</A>
+		<B>Spinosaurus</B>
+		<C>Deinonychus</C>
+		<D>Stegosaurus</D>
+		<Correct>C</Correct>
+	</record>
+	<record>
+		<Topic>READING</Topic>
+		<Question>Frankenstein was written by... </Question>
+		<A>Stephanie Meyer</A>
+		<B>JR Tolkien</B>
+		<C>JK Rowling</C>
+		<D>Mary Shelly</D>
+		<Correct>D</Correct>
+	</record>
+	<record>
+		<Topic>READING</Topic>
+		<Question>What is the name of the first Wizard introduced in The Hobbit? </Question>
+		<A>Sauron</A>
+		<B>Radaghast</B>
+		<C>Frodo</C>
+		<D>Gandalf</D>
+		<Correct>D</Correct>
+	</record>
+	<record>
+		<Topic>READING</Topic>
+		<Question>In Harry Potter, which of the following have NOT been Hagrid’s pets? </Question>
+		<A>Three headed dog</A>
+		<B>Giant spider</B>
+		<C>Dragon</C>
+		<D>Unicorn</D>
+		<Correct>D</Correct>
+	</record>
+	<record>
+		<Topic>READING</Topic>
+		<Question>The Lion’s name in the Chronicles of Narnia is? </Question>
+		<A>Aslan</A>
+		<B>Simba</B>
+		<C>Mufasa</C>
+		<D>Lion</D>
+		<Correct>A</Correct>
+	</record>
+	<record>
+		<Topic>READING</Topic>
+		<Question>There are _ siblings in the Series of Unfortunate Events series. </Question>
+		<A>2</A>
+		<B>3</B>
+		<C>4</C>
+		<D>5</D>
+		<Correct>B</Correct>
+	</record>
+	<record>
+		<Topic>READING</Topic>
+		<Question>Who or what killed Grendel and his mother? </Question>
+		<A>A dragon</A>
+		<B>He committed suicide</B>
+		<C>Beowulf</C>
+		<D>A fire</D>
+		<Correct>C</Correct>
+	</record>
+	<record>
+		<Topic>READING</Topic>
+		<Question>Who is known for writing a series of stories about morality using animals? </Question>
+		<A>Aristotle</A>
+		<B>Aesop</B>
+		<C>JJ Abrams</C>
+		<D>Toby Fox</D>
+		<Correct>B</Correct>
+	</record>
+	<record>
+		<Topic>HISTORY</Topic>
+		<Question>Which of the following were not part of the Axis Powers in WW2? </Question>
+		<A>Bulgaria</A>
+		<B>Germany</B>
+		<C>Italy</C>
+		<D>Turkey</D>
+		<Correct>D</Correct>
+	</record>
+	<record>
+		<Topic>HISTORY</Topic>
+		<Question>The first victory for the allies in WW1 took place in... </Question>
+		<A>England</A>
+		<B>Serbia</B>
+		<C>France</C>
+		<D>Belgium</D>
+		<Correct>B</Correct>
+	</record>
+	<record>
+		<Topic>HISTORY</Topic>
+		<Question>The first animal to be sent to space was a... </Question>
+		<A>Dog</A>
+		<B>Bee</B>
+		<C>Fruit Fly</C>
+		<D>Cat</D>
+		<Correct>C</Correct>
+	</record>
+	<record>
+		<Topic>HISTORY</Topic>
+		<Question>Hannibal is famous for... </Question>
+		<A>being a cannibal.</A>
+		<B>leading elephants over mountains.</B>
+		<C>writing a famous book on dragons.</C>
+		<D>being good at planting trees.</D>
+		<Correct>B</Correct>
+	</record>
+	<record>
+		<Topic>HISTORY</Topic>
+		<Question>Which country was not part of the Ottoman Empire? </Question>
+		<A>Russia</A>
+		<B>Turkey</B>
+		<C>Greece</C>
+		<D>Bulgaria</D>
+		<Correct>A</Correct>
+	</record>
+	<record>
+		<Topic>HISTORY</Topic>
+		<Question>What is the name of the Egyptian Sun God? </Question>
+		<A>Amun</A>
+		<B>Ra</B>
+		<C>Bastet</C>
+		<D>Thoth</D>
+		<Correct>B</Correct>
+	</record>
+</data-set>
